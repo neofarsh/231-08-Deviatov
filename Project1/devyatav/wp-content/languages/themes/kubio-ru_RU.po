@@ -1,0 +1,1601 @@
+# Translation of Themes - Kubio in Russian
+# This file is distributed under the same license as the Themes - Kubio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-09 11:44:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Kubio\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Kubio is an innovative,  easily customizable, multi-purpose theme, focused on empowering users to build astonishing WordPress websites. Kubio is mainly designed for small businesses, startups, or personal portfolio websites and works perfectly with Kubio Page Builder which enriches the WordPress block editor with a variety of new blocks and advanced styling options to give you full design freedom."
+msgstr "Kubio - это инновационная, легко настраиваемая, многоцелевая тема, ориентированная на расширение возможностей пользователей по созданию удивительных сайтов WordPress. Kubio предназначена в основном для малого бизнеса, стартапов или личных сайтов-портфолио и прекрасно работает с Kubio Page Builder, который обогащает редактор блоков WordPress множеством новых блоков и расширенными возможностями стилизации, чтобы дать вам полную свободу дизайна."
+
+#. Theme Name of the theme
+#: style.css functions.php:240
+#, gp-priority: high
+msgid "Kubio"
+msgstr "Kubio"
+
+#: admin/admin-notice-frontpage.php:101
+msgid "Generate a tailored website in minutes using AI"
+msgstr "Создайте индивидуальный веб-сайт за считанные минуты с помощью ИИ"
+
+#: inc/translations.php:305
+msgid "Start with selected option"
+msgstr "Начать с выбранным параметром"
+
+#: inc/translations.php:301
+msgid "Any of these actions will also install the Kubio Page Builder plugin."
+msgstr "Любое из этих действий также установит плагин Kubio Page Builder."
+
+#: admin/admin-notice-frontpage.php:63
+msgid "Classic"
+msgstr "Классический"
+
+#: admin/admin-notice-frontpage.php:57
+msgid "Fullscreen"
+msgstr "На весь экран"
+
+#: admin/admin-notice-frontpage.php:51
+msgid "Modern"
+msgstr "Современный"
+
+#: admin/admin-notice-frontpage.php:44
+msgid "Choose one of the %s predefined designs to start with:"
+msgstr "Выберите один из предустановленных дизайнов %s для старта:"
+
+#: template-parts/front-header/header-menu.php:8
+#: template-parts/header/header-menu.php:8
+msgid "Mobile Menu"
+msgstr "Мобильное меню"
+
+#: inc/translations.php:322
+msgid "*Any of these actions will also install the Kubio Page Builder plugin."
+msgstr "* Любое из этих действий также установит плагин Kubio Page Builder."
+
+#: inc/translations.php:320
+msgid "Generate Homepage"
+msgstr "Сгенерировать домашнюю страницу"
+
+#: inc/translations.php:318
+msgid "Choose this if you're building a blog or a content website"
+msgstr "Выберите этот вариант, если вы создаете блог или сайт с контентом."
+
+#: inc/translations.php:317
+msgid "Latest Blog Posts"
+msgstr "Последние записи блога"
+
+#: inc/translations.php:316
+msgid "Would you like to generate a new homepage using AI? It's fast & FREE!"
+msgstr "Хотите создать новую домашнюю страницу с помощью ИИ? Это быстро и БЕСПЛАТНО!"
+
+#: inc/translations.php:315
+msgid "Choose this if you're building a presentation website"
+msgstr "Выберите этот вариант, если вы создаете презентационный сайт"
+
+#: inc/translations.php:314
+msgid "Custom Home Page"
+msgstr "Пользовательская домашняя страница"
+
+#: inc/translations.php:313
+msgid "What would you like to display on your front page?"
+msgstr "Чтобы вы хотели отобразить на главной странице?"
+
+#: inc/translations.php:283
+msgid "Continue"
+msgstr "Продолжить"
+
+#: template-parts/content/single.php:134
+msgid "32"
+msgstr "32"
+
+#: template-parts/content/single.php:133
+msgid "Comments are closed"
+msgstr "Обсуждение закрыто"
+
+#: template-parts/content/single.php:132
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} ответов"
+
+#: template-parts/content/single.php:131
+msgid "One response"
+msgstr "Один ответ"
+
+#: template-parts/content/single.php:130
+msgid "No responses yet"
+msgstr "Пока без ответов"
+
+#: template-parts/content/single.php:80
+msgid "No tags"
+msgstr "Меток нет"
+
+#: template-parts/content/single.php:75
+msgid "Tags:"
+msgstr "Метки:"
+
+#: template-parts/content/single.php:61
+msgid "No category"
+msgstr "Без категории"
+
+#: template-parts/content/single.php:56
+msgid "CATEGORIES:"
+msgstr "РУБРИКИ:"
+
+#: template-parts/content/index.php:53 template-parts/content/search.php:53
+#: template-parts/content/single.php:116
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/content/index.php:27 template-parts/content/search.php:27
+#: template-parts/content/single.php:99
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/content/404.php:19
+msgid "Go to Homepage!"
+msgstr "Вернуться на главную!"
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:150
+msgid "Activate Kubio"
+msgstr "Активировать Kubio"
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:146
+msgid "Install Kubio"
+msgstr "Установить Kubio"
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:137
+msgid "The Kubio plugin takes Kubio to a whole new level by adding new and powerful editing and styling options. Wanna have full control over your design with Kubio?"
+msgstr "Плагин Kubio выводит Kubio на совершенно новый уровень, добавляя новые и мощные возможности редактирования и стилизации. Хотите иметь полный контроль над своим дизайном с помощью Kubio?"
+
+#: lib/colibriwp/src/Components/PageContent.php:116
+msgid "Page"
+msgstr "Страница"
+
+#: lib/colibriwp/src/Components/PageContent.php:112
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: inc/translations.php:307
+msgid "Undefined sanitize function for control \"%s\""
+msgstr "Неопределенная функция обработки для контроля \"%s\""
+
+#: inc/translations.php:300
+msgid "Contact form and social media integration"
+msgstr "Интеграция контактной формы и соцсетей"
+
+#: inc/translations.php:299
+msgid "Matching color scheme and typography"
+msgstr "Соответствие цветовой гаммы и типографии"
+
+#: inc/translations.php:298
+msgid "Texts and images based on your website subject"
+msgstr "Тексты и сообщения в соответствии с темой вашего сайта"
+
+#: inc/translations.php:297
+msgid "A homepage customized for your website"
+msgstr "Домашняя страница, адаптированная для вашего сайта"
+
+#: inc/translations.php:296
+msgid "Add Predefined Section"
+msgstr "Добавить предустановленный раздел"
+
+#: inc/translations.php:295
+msgid "Don't show anymore"
+msgstr "Больше не показывать"
+
+#: inc/translations.php:294
+msgid "Choose footer design"
+msgstr "Выберите дизайн подвала"
+
+#: inc/translations.php:293
+msgid "Choose header design"
+msgstr "Выберите дизайн заголовка"
+
+#: inc/translations.php:292
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/translations.php:290 inc/translations.php:321
+msgid "No thanks, install the default homepage"
+msgstr "Нет, спасибо. Установить домашнюю страницу с настройками по умолчанию"
+
+#: inc/translations.php:289
+msgid "Generate homepage with AI"
+msgstr "Сгенерировать домашнюю страницу с помощью ИИ"
+
+#: inc/translations.php:288
+msgid "%s uses an AI page generator to create a homepage that is adapted to your website. Here’s what you’ll get:"
+msgstr "%s использует генератор страниц ИИ для создания домашней страницы, адаптированной к вашему сайту. Вот что вы получите:"
+
+#: inc/translations.php:287
+msgid "Would you like to generate a homepage using AI? It's fast and FREE!"
+msgstr "Желаете сгенерировать домашнюю страницу с помощью ИИ? Это быстро и БЕСПЛАТНО!"
+
+#: inc/translations.php:286
+msgid "Preparing Front Page installation"
+msgstr "Подготовка к установке главной страницы"
+
+#: inc/translations.php:285
+msgid "Activating %s"
+msgstr "Активация %s"
+
+#: inc/translations.php:284
+msgid "Installing %s"
+msgstr "Установка %s"
+
+#: inc/translations.php:277
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "Плагин %1$s предоставляет функционал редактирования с помощью перетаскивания, а также ряд других функций для темы %2$s."
+
+#: inc/translations.php:272
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr "Плагин %1$s рекомендован для раздела контактов %2$s."
+
+#: inc/translations.php:270
+msgid "Leave a review"
+msgstr "Оставить отзыв"
+
+#: inc/translations.php:266
+msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
+msgstr "Мы стремимся предоставлять нашим клиентам лучший сервис в отрасли, поэтому для нас очень важна обратная связь с вами. Мы были бы очень признательны, если бы вы уделили нам несколько минут, чтобы поделиться своим опытом с помощью этого опроса."
+
+#: inc/translations.php:265
+msgid "Leave a Review"
+msgstr "Оставить отзыв"
+
+#: inc/translations.php:264
+msgid "Open a support ticket"
+msgstr "Открыть заявку на поддержку"
+
+#: inc/translations.php:260
+msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
+msgstr "Наша техническая команда готова помочь вам создать потрясающий сайт. Обычно мы отвечаем на вопросы поддержки в течении 1 рабочего дня."
+
+#: inc/translations.php:259
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/translations.php:258
+msgid "Check documentation"
+msgstr "Ознакомиться с документацией"
+
+#: inc/translations.php:254
+msgid "Colibri is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
+msgstr "Колибри легко изучить и освоить, но вы всегда можете ознакомиться с нашей документацией, чтобы узнать о функциях, которые вы, возможно, пропустили."
+
+#: inc/translations.php:253
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/translations.php:252
+msgid "Check all demo sites page"
+msgstr "Посетить страницу со всеми демо сайтами"
+
+#: inc/translations.php:251
+msgid "Welcome to %s"
+msgstr "Добро пожаловать в %s"
+
+#: inc/translations.php:250
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/translations.php:249
+msgid "Customize menu"
+msgstr "Настроить меню"
+
+#: inc/translations.php:248
+msgid "Customize fonts"
+msgstr "Настроить шрифты"
+
+#: inc/translations.php:247
+msgid "Change color settings"
+msgstr "Изменить цветовые настройки"
+
+#: inc/translations.php:246
+msgid "Customize footer"
+msgstr "Настроить подвал"
+
+#: inc/translations.php:245
+msgid "Customize frontpage hero"
+msgstr "Настройть Hero на главной странице"
+
+#: inc/translations.php:244
+msgid "Customize navigation"
+msgstr "Настроить навигацию"
+
+#: inc/translations.php:243
+msgid "Change the hero image"
+msgstr "Изменить изображение hero"
+
+#: inc/translations.php:242
+msgid "Set your logo"
+msgstr "Установите ваш логотип"
+
+#: inc/translations.php:241
+msgid "Links to Customizer Settings"
+msgstr "Ссылки на параметры настройщика"
+
+#: inc/translations.php:240
+msgid "Recommended plugins"
+msgstr "Рекомендованные плагины"
+
+#: inc/translations.php:239
+msgid "Get Started"
+msgstr "Начать"
+
+#: inc/translations.php:238
+msgid "or"
+msgstr "или"
+
+#: inc/translations.php:237
+msgid "Colibri Settings"
+msgstr "Настройки Colibri"
+
+#: inc/translations.php:234
+msgid "Thumbnail placeholder color"
+msgstr "Цвет заполнителя миниатюр"
+
+#: inc/translations.php:233
+msgid "Show thumbnail placeholder"
+msgstr "Отобразить заполнители миниатюр"
+
+#: inc/translations.php:232
+msgid "Enable masonry"
+msgstr "Включить плитку"
+
+#: inc/translations.php:231
+msgid "Show blog sidebar "
+msgstr "Отобразить боковую колонку блога"
+
+#: inc/translations.php:230
+msgid "Posts per row"
+msgstr "Записей в ряду"
+
+#: inc/translations.php:226
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: inc/translations.php:225
+msgid "Install %s"
+msgstr "Установить %s"
+
+#: inc/translations.php:221
+msgid "To enable all the theme features, please install %s plugin"
+msgstr "Чтобы активировать все функции темы, пожалуйста, установите плагин %s"
+
+#: inc/translations.php:217
+msgid "Read More"
+msgstr "Прочитать больше"
+
+#: inc/translations.php:213
+msgid "Logo above"
+msgstr "Лого сверху"
+
+#: inc/translations.php:212
+msgid "Logo / Nav"
+msgstr "Лого / Навигация"
+
+#: inc/translations.php:209
+msgid "Shutter out vertical"
+msgstr "Вертикальный затвор наружу"
+
+#: inc/translations.php:208
+msgid "Shutter in vertical"
+msgstr "Вертикальный затвор внутрь"
+
+#: inc/translations.php:207
+msgid "Shutter out horizontal"
+msgstr "Горизонтальный затвор наружу"
+
+#: inc/translations.php:206
+msgid "Shutter in horizontal"
+msgstr "Горизонтальный затвор внутрь"
+
+#: inc/translations.php:205
+msgid "Grow right"
+msgstr "Растет вправо"
+
+#: inc/translations.php:204
+msgid "Grow left"
+msgstr "Растет влево"
+
+#: inc/translations.php:203
+msgid "Grow down"
+msgstr "Растет вниз"
+
+#: inc/translations.php:202
+msgid "Grow up"
+msgstr "Растет вверх"
+
+#: inc/translations.php:200
+msgid "Grow from center"
+msgstr "Растет по-центру"
+
+#: inc/translations.php:199
+msgid "Grow from right"
+msgstr "Растет справа"
+
+#: inc/translations.php:198
+msgid "Grow from left"
+msgstr "Растет слева"
+
+#: inc/translations.php:197
+msgid "Drop out"
+msgstr "Выпадает"
+
+#: inc/translations.php:196
+msgid "Drop in"
+msgstr "Западает"
+
+#: inc/translations.php:194
+msgid "Background"
+msgstr "Фон"
+
+#: inc/translations.php:193
+msgid "Double line"
+msgstr "Двойная линия"
+
+#: inc/translations.php:192
+msgid "Top line"
+msgstr "Верхняя линия"
+
+#: inc/translations.php:191
+msgid "Bottom line"
+msgstr "Нижняя линия"
+
+#: inc/translations.php:188
+msgid "Button hover effect"
+msgstr "Тип наведения кнопки"
+
+#: inc/translations.php:187
+msgid "Button highlight type"
+msgstr "Тип подсветки кнопки"
+
+#: inc/translations.php:186
+msgid "Mobile, tablet and desktop"
+msgstr "Мобильных, планшетах и настольных"
+
+#: inc/translations.php:185
+msgid "Mobile and tablet"
+msgstr "Мобильных и планшетах"
+
+#: inc/translations.php:184
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: inc/translations.php:183
+msgid "Show offscreen menu on"
+msgstr "Отображать закадровое меню на"
+
+#: inc/translations.php:182
+msgid "Edit Menu Structure"
+msgstr "Редактировать структуру меню"
+
+#: inc/translations.php:181
+msgid "- No menu -"
+msgstr "- Без меню -"
+
+#: inc/translations.php:180
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/translations.php:177
+msgid "Image with text on the left"
+msgstr "Изображение с текстом слева"
+
+#: inc/translations.php:176
+msgid "Image with text above"
+msgstr "Изображение с текстом сверху"
+
+#: inc/translations.php:175
+msgid "Image with text on the right"
+msgstr "Изображение с текстом справа"
+
+#: inc/translations.php:174
+msgid "Image with text below"
+msgstr "Изображение с текстом снизу"
+
+#: inc/translations.php:173
+msgid "Site title text only"
+msgstr "Только текст названия сайта"
+
+#: inc/translations.php:172
+msgid "Logo image only"
+msgstr "Только изображение логотипа"
+
+#: inc/translations.php:170
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/translations.php:169
+msgid "Navigation padding"
+msgstr "Отступ навигации"
+
+#: inc/translations.php:168
+msgid "Alternate logo image"
+msgstr "Альтернативное изображение логотипа"
+
+#: inc/translations.php:167
+msgid "Layout type"
+msgstr "Тип разметки"
+
+#: inc/translations.php:164
+msgid "Button align"
+msgstr "Выравнивание кнопки"
+
+#: inc/translations.php:163
+msgid "Transparent nav"
+msgstr "Прозрачная навигационная панель"
+
+#: inc/translations.php:162
+msgid "Full width"
+msgstr "Во всю ширину"
+
+#: inc/translations.php:161
+msgid "Container width"
+msgstr "Ширина контейнера"
+
+#: inc/translations.php:160
+msgid "Boxed"
+msgstr "В контейнере"
+
+#: inc/translations.php:159
+msgid "Show top bar"
+msgstr "Отображать верхнюю панель"
+
+#: inc/translations.php:156
+msgid "Text"
+msgstr "Текст"
+
+#: inc/translations.php:155
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/translations.php:154
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: inc/translations.php:153
+msgid "Add Item"
+msgstr "Добавить элемент"
+
+#: inc/translations.php:152
+msgid "Icon %s"
+msgstr "Иконка %s"
+
+#: inc/translations.php:151
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: inc/translations.php:150
+msgid "Field %s"
+msgstr "Поле %s"
+
+#: inc/translations.php:149
+msgid "Content Type"
+msgstr "Тип содержимого"
+
+#: inc/translations.php:148
+msgid "Social Icons"
+msgstr "Иконки соцсетей"
+
+#: inc/translations.php:147
+msgid "Information Fields"
+msgstr "Информационные поля"
+
+#: inc/translations.php:144
+msgid "Show frame shadow"
+msgstr "Отображать тень рамки"
+
+#: inc/translations.php:143
+msgid "Show frame over image"
+msgstr "Отображать рамку поверх изображения"
+
+#: inc/translations.php:142
+msgid "Frame thickness"
+msgstr "Толщина рамки"
+
+#: inc/translations.php:141
+msgid "Offset top"
+msgstr "Смещение сверху"
+
+#: inc/translations.php:140
+msgid "Offset left"
+msgstr "Смещение слева"
+
+#: inc/translations.php:139
+msgid "Offset"
+msgstr "Смещение"
+
+#: inc/translations.php:138
+msgid "Height"
+msgstr "Высота"
+
+#: inc/translations.php:137
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/translations.php:136
+msgid "Border"
+msgstr "Рамка"
+
+#: inc/translations.php:134
+msgid "Frame options"
+msgstr "Настройки рамки"
+
+#: inc/translations.php:133
+msgid "Blur"
+msgstr "Размыть"
+
+#: inc/translations.php:132
+msgid "Spread"
+msgstr "Распространить"
+
+#: inc/translations.php:131
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: inc/translations.php:130
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: inc/translations.php:129
+msgid "Box shadow"
+msgstr "Тень рамки"
+
+#: inc/translations.php:126
+msgid "Text column width"
+msgstr "Ширина столбца с текстом"
+
+#: inc/translations.php:125
+msgid "Full Height"
+msgstr "В полную высоту"
+
+#: inc/translations.php:124
+msgid "Spacing bottom"
+msgstr "Отступ снизу"
+
+#: inc/translations.php:123
+msgid "Spacing top"
+msgstr "Отступ сверху"
+
+#: inc/translations.php:122
+msgid "Align"
+msgstr "Выравнивание"
+
+#: inc/translations.php:121
+msgid "Icons"
+msgstr "Иконки"
+
+#: inc/translations.php:120
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/translations.php:119
+msgid "Label"
+msgstr "Метка"
+
+#: inc/translations.php:118
+msgid "Secondary Button"
+msgstr "Второстепенная кнопка"
+
+#: inc/translations.php:117
+msgid "Primary Button"
+msgstr "Главная кнопка"
+
+#: inc/translations.php:116
+msgid "Button Type"
+msgstr "Тип кнопки"
+
+#: inc/translations.php:115
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/translations.php:114
+msgid "Add Button"
+msgstr "Добавить кнопку"
+
+#: inc/translations.php:113
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/translations.php:112
+msgid "Text width"
+msgstr "Ширина текста"
+
+#: inc/translations.php:111
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/translations.php:110
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/translations.php:109
+msgid "Show Subtitle"
+msgstr "Отобразить подзаголовок"
+
+#: inc/translations.php:108
+msgid "Show Title"
+msgstr "Показать заголовок"
+
+#: inc/translations.php:107
+msgid "Text with media on left"
+msgstr "Текст с медиа слева"
+
+#: inc/translations.php:106
+msgid "Text with media on right"
+msgstr "Текст с медиа справа"
+
+#: inc/translations.php:105
+msgid "Text only"
+msgstr "Текст только"
+
+#: inc/translations.php:104
+msgid "Hero layout"
+msgstr "Разметка Hero"
+
+#: inc/translations.php:101
+msgid "Overlay Shape"
+msgstr "Форма наложения"
+
+#: inc/translations.php:100
+msgid "Shape Light"
+msgstr "Свет формы"
+
+#: inc/translations.php:99
+msgid "Right Tilted Strips"
+msgstr "Правые наклонные полосы"
+
+#: inc/translations.php:98
+msgid "Right Tilted Lines"
+msgstr "Правые наклонные линии"
+
+#: inc/translations.php:97
+msgid "Left Tilted Lines"
+msgstr "Левые наклонные линии"
+
+#: inc/translations.php:96
+msgid "Dots"
+msgstr "Точки"
+
+#: inc/translations.php:95
+msgid "Waves Inverted"
+msgstr "Волны инвертированные"
+
+#: inc/translations.php:94
+msgid "Waves"
+msgstr "Волны"
+
+#: inc/translations.php:93
+msgid "Circles White Gradient"
+msgstr "Круги с белым градиентом"
+
+#: inc/translations.php:92
+msgid "Circles Gradient"
+msgstr "Градиент кругов"
+
+#: inc/translations.php:91
+msgid "Circles 3"
+msgstr "Круги 3"
+
+#: inc/translations.php:90
+msgid "Circles 2"
+msgstr "Круги 2"
+
+#: inc/translations.php:89
+msgid "Two Circles"
+msgstr "Два круга"
+
+#: inc/translations.php:88
+msgid "Many Rounded Squares Blue"
+msgstr "Много синих закругленных квадратов"
+
+#: inc/translations.php:87
+msgid "Rounded Square Blue"
+msgstr "Синий закругленный квадрат"
+
+#: inc/translations.php:86
+msgid "10deg Stripes"
+msgstr "Полосы в 10 градусов"
+
+#: inc/translations.php:85
+msgid "Circles"
+msgstr "Круги"
+
+#: inc/translations.php:84
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: inc/translations.php:83
+msgid "Shape Only"
+msgstr "Только форма"
+
+#: inc/translations.php:82
+msgid "Overlay Type"
+msgstr "Тип наложения"
+
+#: inc/translations.php:81
+msgid "Show Background Overlay"
+msgstr "Отобразить наложение фона"
+
+#: inc/translations.php:80
+msgid "Youtube link"
+msgstr "Ссылка Youtube"
+
+#: inc/translations.php:79
+msgid "Video Poster"
+msgstr "Видео-плакат"
+
+#: inc/translations.php:78
+msgid "External"
+msgstr "Внешнее"
+
+#: inc/translations.php:77
+msgid "Self Hosted Video"
+msgstr "Самостоятельное размещение видео"
+
+#: inc/translations.php:76
+msgid "Self Hosted"
+msgstr "Самостоятельное размещение"
+
+#: inc/translations.php:75
+msgid "Video type"
+msgstr "Тип видео"
+
+#: inc/translations.php:74
+msgid "Effect Speed"
+msgstr "Скорость эффекта"
+
+#: inc/translations.php:73
+msgid "Slide Duration"
+msgstr "Длительность слайда"
+
+#: inc/translations.php:72
+msgid "Contain"
+msgstr "Содержимое"
+
+#: inc/translations.php:71
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/translations.php:70
+msgid "Auto"
+msgstr "Авто"
+
+#: inc/translations.php:69
+msgid "Repeat %s"
+msgstr "Повтор %s"
+
+#: inc/translations.php:68
+msgid "Do not repeat"
+msgstr "Без повторов"
+
+#: inc/translations.php:67
+msgid "Size"
+msgstr "Размер"
+
+#: inc/translations.php:66
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: inc/translations.php:65
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: inc/translations.php:64
+msgid "Attachment"
+msgstr "Привязка"
+
+#: inc/translations.php:63
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: inc/translations.php:62
+msgid "Bottom Center"
+msgstr "Снизу по центру"
+
+#: inc/translations.php:61
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: inc/translations.php:60
+msgid "Center Right"
+msgstr "По центру справа"
+
+#: inc/translations.php:59
+msgid "Center Center"
+msgstr "В самом центре"
+
+#: inc/translations.php:58
+msgid "Center Left"
+msgstr "По центру слева"
+
+#: inc/translations.php:57
+msgid "Top Right"
+msgstr "Вверху справа"
+
+#: inc/translations.php:56
+msgid "Top Center"
+msgstr "Сверху по центру"
+
+#: inc/translations.php:55
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: inc/translations.php:52
+msgid "Position"
+msgstr "Позиция"
+
+#: inc/translations.php:51
+msgid "Add Slide"
+msgstr "Добавить слайд"
+
+#: inc/translations.php:50
+msgid "Slide %s"
+msgstr "Слайд %s"
+
+#: inc/translations.php:49
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/translations.php:48
+msgid "Add"
+msgstr "Добавить"
+
+#: inc/translations.php:47
+msgid "None"
+msgstr "Нет"
+
+#: inc/translations.php:46
+msgid "Clear"
+msgstr "Очистить"
+
+#: inc/translations.php:45
+msgid "OK"
+msgstr "OK"
+
+#: inc/translations.php:44
+msgid "Select image"
+msgstr "Выбрать изображение"
+
+#: inc/translations.php:43
+msgid "Select item"
+msgstr "Выбрать элемент"
+
+#: inc/translations.php:42
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/translations.php:39
+msgid "Tilt Flipped"
+msgstr "Обратный наклон"
+
+#: inc/translations.php:38
+msgid "Tilt"
+msgstr "Наклон"
+
+#: inc/translations.php:36
+msgid "Divider negative"
+msgstr "Отрицательный разделитель"
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr "Высота разделителя"
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr "Стиль разделителя"
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr "Отображать нижний разделитель"
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr "Видео"
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr "Слайд-шоу"
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr "Заливка"
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr "Настройки Hero"
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr "Настройки навигации"
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr "Настройки верхней панели"
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr "Настройки содержимого"
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr "Нижняя часть"
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/translations.php:7
+msgid "Back"
+msgstr "Назад"
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr "Нажмите Enter, чтобы открыть эту секцию"
+
+#: inc/template-functions.php:51
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: inc/template-functions.php:49 template-parts/content/404.php:9
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: inc/template-functions.php:11
+msgid "Built with ❤️ using WordPress and %s."
+msgstr "Создано с ❤️ с помощью WordPress и %s."
+
+#: lib/colibriwp/src/Components/FrontHeader/Subtitle.php:46
+#: lib/kubio-themebase/src/Components/FrontHeader/Subtitle.php:49
+msgid "Discover your untapped potential and become the hero of your own narrative � where every day is an opportunity for a new, epic adventure."
+msgstr "Раскройте свой потенциал и станьте героем своего собственного повествования, где каждый день � это возможность для нового эпического приключения."
+
+#: lib/colibriwp/src/Components/FrontHeader/Title.php:46
+#: lib/kubio-themebase/src/Components/FrontHeader/Title.php:42
+msgid "Unleashing the Hero Within"
+msgstr "Откройте героя внутри"
+
+#: lib/colibriwp/src/Components/FrontHeader/ButtonsGroup.php:21
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: lib/colibriwp/src/Components/FrontHeader/ButtonsGroup.php:20
+msgid "Get in control"
+msgstr "Взять под контроль"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3778
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3773
+msgid "All installations have been completed."
+msgstr "Все плагины установлены успешно."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3763
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: inc/class-tgm-plugin-activation.php:3758
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начинается. В зависимости от мощности вашего сервера этот процесс может занять некоторое время. Пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3752
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Устанавливаю и aктивирую плагин %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3747
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#: inc/class-tgm-plugin-activation.php:3743
+#: inc/class-tgm-plugin-activation.php:3769
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/class-tgm-plugin-activation.php:3740
+#: inc/class-tgm-plugin-activation.php:3766
+msgid "Show Details"
+msgstr "Показать детали"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3737
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: inc/class-tgm-plugin-activation.php:3732
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации запущен. В зависимости от мощности вашего сервера этот процесс может занять некоторое время. Пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3725
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s завершилась ошибкой."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3720
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Во время установки %1$s произошла ошибка: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3714
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3365
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/class-tgm-plugin-activation.php:3119
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет плагинов доступных для активации."
+
+#: inc/class-tgm-plugin-activation.php:3090
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Плагины для активации не выбраны. Никаких действий не принимается."
+
+#: inc/class-tgm-plugin-activation.php:2978
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет плагинов доступных для обновления."
+
+#: inc/class-tgm-plugin-activation.php:2976
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет плагинов доступных для установки."
+
+#: inc/class-tgm-plugin-activation.php:2935
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагины для обновления не выбраны. Никаких действий не принимается."
+
+#: inc/class-tgm-plugin-activation.php:2933
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Плагины для установки не выбраны. Никаких действий не принимается."
+
+#: inc/class-tgm-plugin-activation.php:2902 inc/translations.php:281
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/class-tgm-plugin-activation.php:2899
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/class-tgm-plugin-activation.php:2893 inc/translations.php:282
+msgid "Install"
+msgstr "Установить"
+
+#: inc/class-tgm-plugin-activation.php:2861
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об апгрейде от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2784
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2778
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2773
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Status"
+msgstr "Статус"
+
+#: inc/class-tgm-plugin-activation.php:2725
+msgid "Version"
+msgstr "Версия"
+
+#: inc/class-tgm-plugin-activation.php:2721 inc/translations.php:135
+msgid "Type"
+msgstr "Тип"
+
+#: inc/class-tgm-plugin-activation.php:2720
+msgid "Source"
+msgstr "Источник"
+
+#: inc/class-tgm-plugin-activation.php:2719
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/class-tgm-plugin-activation.php:2700
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/class-tgm-plugin-activation.php:2674
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/class-tgm-plugin-activation.php:2655
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестный"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2545
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2536
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2527
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2517
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2472
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2463
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:2460
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:2457
+msgid "Required Update not Available"
+msgstr "Необходимое обновление недоступно"
+
+#: inc/class-tgm-plugin-activation.php:2451 inc/translations.php:291
+msgid "Active"
+msgstr "Активные"
+
+#: inc/class-tgm-plugin-activation.php:2449
+msgid "Installed But Not Activated"
+msgstr "Установлено, но не активировано"
+
+#: inc/class-tgm-plugin-activation.php:2445
+msgid "Not Installed"
+msgstr "Не установлены"
+
+#: inc/class-tgm-plugin-activation.php:2428
+msgid "Pre-Packaged"
+msgstr "Упакованный в тему"
+
+#: inc/class-tgm-plugin-activation.php:2425
+msgid "External Source"
+msgstr "Внешний ресурс"
+
+#: inc/class-tgm-plugin-activation.php:2422
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Recommended"
+msgstr "Рекомендован"
+
+#: inc/class-tgm-plugin-activation.php:2403
+msgid "Required"
+msgstr "Обязательно"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2099
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1207
+#: inc/class-tgm-plugin-activation.php:3139
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/class-tgm-plugin-activation.php:998
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Удалённый набор плагинов состоит из более, чем одного файла, но файлы не помещены в папку."
+
+#: inc/class-tgm-plugin-activation.php:985
+#: inc/class-tgm-plugin-activation.php:1001
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с разработчиком плагина и попросите его упаковать плагин в соответствии с требованиями WordPress."
+
+#: inc/class-tgm-plugin-activation.php:982
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Набор удалённых плагинов не содержит папку с требуемым ярлыком и переименование не работает."
+
+#: inc/class-tgm-plugin-activation.php:547
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:546
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Обновите плагин для корректной работы с этой темой."
+
+#: inc/class-tgm-plugin-activation.php:411
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: inc/class-tgm-plugin-activation.php:407
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Есть один или несколько требуемых или рекомендованных плагинов для установки, обновления или активации."
+
+#: inc/class-tgm-plugin-activation.php:406
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:402
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно проинсталлированы и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Для этой темы необходима более свежая версия %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ничего не произошло. Плагин %1$s уже активирован."
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3148
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Успешно активирован следующий плагин:"
+msgstr[1] "Успешно активировано следующих плагина:"
+msgstr[2] "Успешно активировано следующих плагинов:"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:3366
+msgid "Plugin activated successfully."
+msgstr "Плагин авктивирован успешно."
+
+#: inc/class-tgm-plugin-activation.php:385
+#: inc/class-tgm-plugin-activation.php:869
+#: inc/class-tgm-plugin-activation.php:2703
+#: inc/class-tgm-plugin-activation.php:3841
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/class-tgm-plugin-activation.php:384
+msgid "Return to Required Plugins Installer"
+msgstr "Возврат к установке необходимых плагинов"
+
+#: inc/class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:363
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Рекомендуемый плагин сейчас неактивен: %1$s."
+msgstr[1] "Такие рекомендуемые плагины сейчас неактивны: %1$s."
+msgstr[2] "Такие рекомендуемые плагины сейчас неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:357
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот необходимый плагин сейчас неактивен: %1$s."
+msgstr[1] "Такие необходимые плагины сейчас неактивны: %1$s."
+msgstr[2] "Такие необходимые плагины сейчас неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:351
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление для плагина: %1$s."
+msgstr[1] "Доступно обновление для таких плагинов: %1$s."
+msgstr[2] "Доступно обновление для таких плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:345
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин следует обновить для совместимости с этой темой:  %1$s."
+msgstr[1] "Эти плагины следует обновить для совместимости с этой темой:  %1$s."
+msgstr[2] "Эти плагины следует обновить для совместимости с этой темой:  %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:339
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует такой плагин:  %1$s."
+msgstr[1] "Эта тема рекомендует такие плагины:  %1$s."
+msgstr[2] "Эта тема рекомендует такие плагины:  %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:333
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Этой теме требуются следующий плагин: %1$s."
+msgstr[1] "Этой теме требуются следующие плагины: %1$s."
+msgstr[2] "Этой теме требуются следующие плагины: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:331
+msgid "Updating Plugin: %s"
+msgstr "Обновляется плагин: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:329
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/class-tgm-plugin-activation.php:326
+msgid "Install Required Plugins"
+msgstr "Установить необходимыe плагины"
+
+#: functions.php:373
+msgid "View site"
+msgstr "Просмотр сайта"
+
+#: functions.php:364
+msgid "%s design has been successfully imported! You can take a look at your new design or start editing it"
+msgstr "Дизайн %s успешно импортирован! Вы можете взглянуть на свой новый дизайн или начать его изменение"
+
+#: functions.php:354
+msgid "%s design has been successfully imported!"
+msgstr "Дизайн %s успешно импортирован!"
+
+#: functions.php:240
+msgid "Kubio PRO"
+msgstr "Kubio PRO"
+
+#: functions.php:135
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: functions.php:134
+msgid "Header Menu"
+msgstr "Заголовок меню"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:59
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:43
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr "% Ответов"
+
+#: comments.php:15
+msgid "One Response"
+msgstr "Один Ответ"
+
+#: comments.php:14
+msgid "No Responses"
+msgstr "Нет Ответов"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kubiobuilder.com/kubio-theme"
+msgstr "https://kubiobuilder.com/kubio-theme"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kubiobuilder.com"
+msgstr "https://kubiobuilder.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Extend Themes"
+msgstr "Extend Themes"
