@@ -1,0 +1,65 @@
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\fffff.exe.config
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\fffff.exe
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\fffff.pdb
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\CsvHelper.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Buffers.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Memory.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Text.Json.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.ValueTuple.dll
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\CsvHelper.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Buffers.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Memory.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Text.Json.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\bin\Release\System.ValueTuple.xml
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.csproj.AssemblyReference.cache
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.Properties.Resources.resources
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.csproj.GenerateResource.cache
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.csproj.CoreCompileInputs.cache
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.csproj.CopyComplete
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.exe
+C:\Users\ШестаковИН\source\repos\fffff\fffff\obj\Release\fffff.pdb
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\CsvHelper.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Buffers.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Memory.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Text.Json.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.ValueTuple.dll
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\CsvHelper.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Buffers.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Memory.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Text.Json.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\System.ValueTuple.xml
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\fffff.csproj.AssemblyReference.cache
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\fffff.csproj.GenerateResource.cache
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\fffff.csproj.CoreCompileInputs.cache
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\fffff.csproj.CopyComplete
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\StudentManager.Forms.MainForm.resources
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\control-student.exe.config
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\control-student.exe
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\bin\Release\control-student.pdb
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\dcdae.Properties.Resources.resources
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\control-student.exe
+C:\Users\ДевятовДА\Desktop\димачке 😘😘😘\project\fffff\obj\Release\control-student.pdb
